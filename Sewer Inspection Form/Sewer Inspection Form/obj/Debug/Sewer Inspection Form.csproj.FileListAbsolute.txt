@@ -1,0 +1,9 @@
+c:\users\jsomm\documents\visual studio 2017\Projects\Sewer Inspection Form\Sewer Inspection Form\bin\Debug\Sewer Inspection Form.exe.config
+c:\users\jsomm\documents\visual studio 2017\Projects\Sewer Inspection Form\Sewer Inspection Form\bin\Debug\Sewer Inspection Form.exe
+c:\users\jsomm\documents\visual studio 2017\Projects\Sewer Inspection Form\Sewer Inspection Form\bin\Debug\Sewer Inspection Form.pdb
+c:\users\jsomm\documents\visual studio 2017\Projects\Sewer Inspection Form\Sewer Inspection Form\obj\Debug\Sewer Inspection Form.csprojResolveAssemblyReference.cache
+c:\users\jsomm\documents\visual studio 2017\Projects\Sewer Inspection Form\Sewer Inspection Form\obj\Debug\Sewer_Inspection_Form.Form1.resources
+c:\users\jsomm\documents\visual studio 2017\Projects\Sewer Inspection Form\Sewer Inspection Form\obj\Debug\Sewer_Inspection_Form.Properties.Resources.resources
+c:\users\jsomm\documents\visual studio 2017\Projects\Sewer Inspection Form\Sewer Inspection Form\obj\Debug\Sewer Inspection Form.csproj.GenerateResource.Cache
+c:\users\jsomm\documents\visual studio 2017\Projects\Sewer Inspection Form\Sewer Inspection Form\obj\Debug\Sewer Inspection Form.exe
+c:\users\jsomm\documents\visual studio 2017\Projects\Sewer Inspection Form\Sewer Inspection Form\obj\Debug\Sewer Inspection Form.pdb
